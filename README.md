@@ -2,7 +2,7 @@
 A documentation repository with apresentations and tutorials.
 
 <div align="center">
-    <img src=/home/fabio/Repos/documentation/assets/logo_ararabots/logo-arara-vermelha-borda-branca.png width="400"/>
+    <img src=assets/logo_ararabots/logo-arara-vermelha-borda-branca.png width="400"/>
 </div>
 
 ## Tutorials
