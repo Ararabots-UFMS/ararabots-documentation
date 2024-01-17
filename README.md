@@ -1,5 +1,5 @@
 # Ararabots - Documentation
-A documentation repository with apresentations and tutorials.
+A documentation repository with presentations, tutorials and meeting records.
 
 <div align="center">
     <img src=assets/logo_ararabots/logo-arara-vermelha-borda-branca.png width="400"/>
